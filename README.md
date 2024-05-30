@@ -27,7 +27,8 @@
    <li>Compile o projeto usando Maven:</li>
        <code>mvn clean install</code>
     <li>Execute o projeto:</li>
-        <code>mvn exec:java -Dexec.mainClass="conversor.ConversorMoedas"</code>
+        <code>mvn exec:java -Dexec.mainClass="conversor.ConversorMoedas
+</code>
     </ol>
 
  <h2>Estrutura do Projeto</h2>
