@@ -20,6 +20,7 @@
 
 <h2>Compilando e Executando o Projeto</h2>
 <p>Execute o arquivo por esses comandos, caso sua versão não seja compativel</p>
+<p>Essa configuração foi porque cp os arquivos do projeto para a pasta github</p>
  <ol>
    <li>Clone o repositório para o seu diretório local:</li>
    <code>git clone https://github.com/sucloudflare/DesafioAlura-BackEnd-Java</code>
